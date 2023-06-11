@@ -1,0 +1,12 @@
+{
+  "tools": ["google-search"],
+  "kwargs": {
+      "llm_api_key": "",
+      "proxy": "",
+      "debug": false,
+      "no_default": false,
+      "model_name": "gpt-3.5-turbo",
+      "google_api_key": "AIzaSyDzXJe3o5sohSHZis1hKttfJ-WCCxMaOkw",
+      "google_cse_id": "46dd4e68efa4e4443"
+  }
+}
