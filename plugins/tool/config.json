@@ -1,9 +1,5 @@
 {
   "tools": [
-    "python",
-    "url-get",
-    "terminal",
-    "meteo-weather",
     "google-search"
   ],
   "kwargs": {
